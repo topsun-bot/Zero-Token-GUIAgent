@@ -1,0 +1,10 @@
+{
+  "kimi-cu": {
+    "module_root": "packages/kimi-cu/trusted-service",
+    "entry": "service.mjs",
+    "config": {
+      "endpoint": "\\\\.\\pipe\\kimi-cu-runtime",
+      "minimum_runtime_version": "0.6.8"
+    }
+  }
+}

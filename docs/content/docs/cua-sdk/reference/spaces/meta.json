@@ -1,0 +1,11 @@
+{
+  "title": "Spaces",
+  "pages": [
+    "space",
+    "volume",
+    "streams",
+    "resources",
+    "persistent-agents",
+    "host"
+  ]
+}

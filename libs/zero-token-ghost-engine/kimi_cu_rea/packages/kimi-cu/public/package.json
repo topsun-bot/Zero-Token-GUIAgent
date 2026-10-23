@@ -1,0 +1,7 @@
+{
+  "name": "@kimi/cu",
+  "version": "0.0.0-experimental",
+  "private": true,
+  "type": "module",
+  "exports": "./index.mjs"
+}

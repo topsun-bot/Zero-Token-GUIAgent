@@ -1,0 +1,17 @@
+{
+  "title": "Guides",
+  "pages": [
+    "own-harness",
+    "images",
+    "services",
+    "lifecycle",
+    "desktop",
+    "spacesd",
+    "local-runtimes",
+    "test-in-ci",
+    "run-a-coding-agent",
+    "agent-frameworks",
+    "omarchy",
+    "cua-cloud-ended"
+  ]
+}
