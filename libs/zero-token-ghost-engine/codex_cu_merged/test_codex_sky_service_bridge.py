@@ -1,4 +1,9 @@
+from pathlib import Path
+import sys
 import unittest
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 from codex_sky_service_bridge import (
     AppUsageFrequencyTable,
     SkyComputerUseFastIPC,

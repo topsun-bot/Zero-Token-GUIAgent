@@ -19,7 +19,11 @@
   - [x] 14-day rolling `useCount` application launch frequency ranking (`AppUsageFrequencyTable`)
   - [x] 10m / 6h rolling desktop activity summarizer with sticky taint tracking & automatic skill candidate extraction (`SkysightMemoryPipeline`)
   - [x] Per-application domain instruction registry (`AppInstructionsRegistry`)
-  - [x] 25/25 Python router & bridge unit tests passing
+  - [x] **EDA & Cloud Desktop Zero-Token Bridge (`libs/zero-token-ghost-engine/eda_cloud_bridge/`)**
+    - [x] `EDAGUIToScriptDistiller`: Lexical SKILL (`.il`) & Tcl (`.tcl`) multi-line normalizer, balanced-delimiter validator, R4 destructive command blocker, and SHA-256 parameterized 0-Token script compiler
+    - [x] `EDAMicroUICoordinator`: 0 px BBox center resolver, clamped 1:1 native-resolution `rect` crop calculator for dense 4K EDA waveform/layout canvases, and R0–R4 risk classifier
+    - [x] `CloudHostEDATriadWorkflow`: End-to-end closed-loop orchestrator connecting `gh` regression polling, `kimi-cu` background multi-window Verdi/Virtuoso triage, and `lark-cli` Feishu report dispatch
+  - [x] 34/34 Python router, bridge & EDA distillation unit tests passing (64/64 total runtime contract tests with 30/30 Node.js)
 
 ---
 
